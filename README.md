@@ -3,7 +3,7 @@
 Hello, I'm Nesar Ahmad Bahin, and I'm excited to share a bit about myself and my interests:
 
 ## About Me
-- 👀 I’m interested in **technology** and am passionate about leveraging it to develop and deploy systems and projects that provide solutions to societal challenges.
+- 👀 I’m interested in **technology** and am passionate about leveraging it to develop and deploy systems and projects that provide solutions to social challenges.
 
 ## Current Focus
 - 🌱 I’m currently learning and expanding my skills to contribute even more effectively to the tech world.
